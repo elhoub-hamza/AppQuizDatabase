@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763115919839",
+    "project_id": "fir-authentication-eea96",
+    "storage_bucket": "fir-authentication-eea96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763115919839:android:56f3a2eb34838448becc6a",
+        "android_client_info": {
+          "package_name": "com.example.appquizstabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763115919839-obd33c4pegbjq10nbj4dbbl3jfuhe1t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4EsdThrZgsfqyc6RWLn6XummjtUCNxTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763115919839-obd33c4pegbjq10nbj4dbbl3jfuhe1t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
